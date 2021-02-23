@@ -11,6 +11,9 @@
     "predeploy": "npm audit",
     "deploy": "git push heroku master"
   },
+  "engines": {
+    "node": "12.20.1"
+  },
   "keywords": [],
   "author": "Tom `tomatao` HT <tomht@thinkful.com>",
   "license": "MIT",
@@ -21,9 +24,9 @@
     "express": "^4.16.4",
     "helmet": "^3.15.0",
     "jsonwebtoken": "^8.5.0",
-    "knex": "^0.16.3",
+    "knex": "^0.21.18",
     "morgan": "^1.9.1",
-    "pg": "^7.8.2"
+    "pg": "^7.18.2"
   },
   "devDependencies": {
     "chai": "^4.2.0",
