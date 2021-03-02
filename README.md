@@ -1,5 +1,8 @@
 # Spaced repetition API!
 
+Live App Link: https://spaced-repetition-adamfigueroa.vercel.app/
+Client Repo: https://github.com/adamfigueroa/spaced-repetition-client
+
 ## Local dev setup
 
 If using user `dunder-mifflin`:
